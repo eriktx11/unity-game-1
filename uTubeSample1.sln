@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2C490443-56DD-00CE-E84E-92189ED07E60}") = "uTubeSample1", "Assembly-CSharp-firstpass.csproj", "{6391F62E-38EA-C10D-C38F-AD7F51F68753}"
+EndProject
+Project("{2C490443-56DD-00CE-E84E-92189ED07E60}") = "uTubeSample1", "Assembly-CSharp-Editor.csproj", "{A323AE5A-19DB-7B7E-4BD5-59427E62ED82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6391F62E-38EA-C10D-C38F-AD7F51F68753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6391F62E-38EA-C10D-C38F-AD7F51F68753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6391F62E-38EA-C10D-C38F-AD7F51F68753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6391F62E-38EA-C10D-C38F-AD7F51F68753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A323AE5A-19DB-7B7E-4BD5-59427E62ED82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A323AE5A-19DB-7B7E-4BD5-59427E62ED82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A323AE5A-19DB-7B7E-4BD5-59427E62ED82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A323AE5A-19DB-7B7E-4BD5-59427E62ED82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
