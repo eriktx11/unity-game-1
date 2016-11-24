@@ -1,4 +1,5 @@
 ﻿var target : Transform;
+var loading : GameObject;
 
 function Update(){
 }
